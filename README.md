@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chenjuncheng00,from China.
 - 👀 I’m interested in energy-saving optimization algorithm for HVAC and distributed energy system.
-- 🌱 The algorithms I developed by myself are all private，if you are interested, please contact me,we can carry out technical exchanges.
+- 🌱 The algorithms I developed by myself are all private，if you are interested,we can carry out technical exchanges.
 - 📫 If you want to contact me, please send an email to chenjuncheng00@qq.com or chenjuncheng00@163.com.
 
 <!---
